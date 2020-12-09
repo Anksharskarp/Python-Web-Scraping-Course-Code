@@ -15,4 +15,4 @@ pip install pandas
 pip install matplotlib
 pip install PIL
 ```
-Happy coding! :cheer:
+Happy coding! :mega:
